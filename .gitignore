@@ -1,0 +1,12 @@
+# build
+*.exe
+*.o
+*.obj
+maritxu
+resultados.txt
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user

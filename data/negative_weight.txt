@@ -1,0 +1,8 @@
+3 2
+0 Donostia
+1 Hernani
+2 Andoain
+0 1 5
+1 2 -3
+#CONSULTAS
+0 2

@@ -1,0 +1,2 @@
+ERROR: El grafo contiene aristas con peso negativo. Dijkstra no es aplicable.
+Arista con peso negativo detectada: Hernani -- Andoain (peso: -3)
